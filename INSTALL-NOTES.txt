@@ -1,0 +1,3 @@
+STATUS: DRAFT / BELUM SIAP AUTO-INSTALL
+Jangan jalankan perintah instalasi otomatis. File ini belum terhubung ke loader tema Pterodactyl.
+Pastikan versi Pterodactyl dan metode pemuatan CSS sudah diketahui sebelum membuat installer khusus.

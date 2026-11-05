@@ -1,0 +1,9 @@
+{
+  "name": "DURESBOT DRAGON",
+  "version": "1.0.0",
+  "developer": "@durexstr",
+  "description": "Dark dragon-inspired Pterodactyl theme with neon green controls and DURESBOT signature.",
+  "entry": "theme.css",
+  "status": "preview-draft",
+  "compatibility": "Requires a theme loader/integration compatible with the installed Pterodactyl version."
+}
